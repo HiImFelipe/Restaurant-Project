@@ -1,0 +1,15 @@
+.container {
+  height: 115px;
+  width: 100%;
+  background-color: aquamarine;
+}
+
+.top-bar {
+  height: 23px;
+  background-color: #ff8a00;
+}
+
+.nav-bar {
+  display: flex;
+  height: 100%;
+}
