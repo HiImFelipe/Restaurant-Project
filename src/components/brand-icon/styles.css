@@ -1,0 +1,13 @@
+.brand-container {
+  padding-left: 37px;
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100%;
+  background-color: #ffffff;
+}
+
+.brand-text {
+  margin-right: 15px;
+}
